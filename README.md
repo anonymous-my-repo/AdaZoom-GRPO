@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><strong>Adaptive Zoom-in Agentic RLVR for Ultra-High-Resolution Remote Sensing VQA</strong></h2>
+  <h2><strong>GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery</strong></h2>
   <h5>
   Anonymous Authors
       <br/><br/>
@@ -116,5 +116,6 @@ bash s233.sh
 We provide our trained model checkpoints through **anonymous** repo: https://huggingface.co/Anonymous-BdjkruUUIg/GeoEyes
 
 ### Main Results (XLRS-Bench)
+
 
 <img src="assets/main_res.jpg" alt="pipeline" style="zoom: 80%;" />
