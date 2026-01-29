@@ -1,0 +1,31 @@
+EXP_NAME=debug_UHR-CoZ
+
+PROJECT_NAME=geoeyes
+
+# STEP=16
+# PORT=6999
+
+# STEP=24
+# PORT=7000
+
+# STEP=32
+# PORT=7002
+
+# STEP=48
+# PORT=7004
+
+# STEP=56
+# PORT=7005
+
+STEP=64
+PORT=7006
+
+# STEP=72
+# PORT=7007
+
+# STEP=80
+# PORT=7008
+
+STEP_PATH=/path/to/${PROJECT_NAME}/${EXP_NAME}/global_step_${STEP}
+
+
